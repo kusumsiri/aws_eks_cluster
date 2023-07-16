@@ -1,5 +1,5 @@
 # Creating an AWS EKS cluster by Terraform
-This code creates an AWS EKS cluster by Terraform.
+This code creates an [AWS EKS cluster](https://docs.aws.amazon.com/eks/latest/userguide/clusters.html) by Terraform.
 
 That cluster can be used to deploy [Kubernetes](https://kubernetes.io/) applications.
 
