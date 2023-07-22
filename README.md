@@ -22,3 +22,4 @@ Step 3
 ```
 terraform apply
 ```
+The EKS cluster is now ready on the AWS cloud to deploy Kubernetes applications
